@@ -4,7 +4,7 @@ A hands-on AWS infrastructure and cloud operations project built to demonstrate 
 
 The project provisions and operates a small internet-facing workload on AWS while following infrastructure-as-code and cloud security practices.
 
-> **Live Demo:** Add live deployment URL here
+> **Live Demo:** http://13.205.180.156/
 
 ---
 
